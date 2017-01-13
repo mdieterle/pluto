@@ -1,0 +1,33 @@
+lib/PFermiDistributions.o:plugins/nucleus_fermi/PFermiDistributions.cc plugins/nucleus_fermi/PFermiDistributions.h
+ lib/PFermiMomentumGA.o:plugins/nucleus_fermi/PFermiMomentumGA.cc plugins/nucleus_fermi/PFermiMomentumGA.h
+ lib/PNucleusFermiPlugin.o:plugins/nucleus_fermi/PNucleusFermiPlugin.cc plugins/nucleus_fermi/PNucleusFermiPlugin.h
+ lib/PPionBeamPlugin.o:plugins/pion_beam/PPionBeamPlugin.cc plugins/pion_beam/PPionBeamPlugin.h
+ lib/PPionBeamAmplitude.o:plugins/pion_beam/PPionBeamAmplitude.cc plugins/pion_beam/PPionBeamAmplitude.h
+ lib/PBremsstrahlung.o:plugins/brems/PBremsstrahlung.cc plugins/brems/PBremsstrahlung.h
+ lib/PBremsstrahlungPlugin.o:plugins/brems/PBremsstrahlungPlugin.cc plugins/brems/PBremsstrahlungPlugin.h
+ lib/PHadesParticleSmearer.o:plugins/hades/PHadesParticleSmearer.cc plugins/hades/PHadesParticleSmearer.h
+ lib/PHGeantOutput.o:plugins/hades/PHGeantOutput.cc plugins/hades/PHGeantOutput.h
+ lib/PDalitzModPlugin.o:plugins/dalitz_mod/PDalitzModPlugin.cc plugins/dalitz_mod/PDalitzModPlugin.h
+ lib/PDeltaDalitzFF.o:plugins/dalitz_mod/PDeltaDalitzFF.cc plugins/dalitz_mod/PDeltaDalitzFF.h
+ lib/PDeltaDalitzKrivoruchenko.o:plugins/dalitz_mod/PDeltaDalitzKrivoruchenko.cc plugins/dalitz_mod/PDeltaDalitzKrivoruchenko.h
+ lib/PResonanceDalitz.o:plugins/dalitz_mod/PResonanceDalitz.cc plugins/dalitz_mod/PResonanceDalitz.h
+ lib/PElementaryPlugin.o:plugins/elementary/PElementaryPlugin.cc plugins/elementary/PElementaryPlugin.h
+ lib/PNNFSI.o:plugins/elementary/PNNFSI.cc plugins/elementary/PNNFSI.h
+ lib/PEtaDecaysPlugin.o:plugins/eta_decays/PEtaDecaysPlugin.cc plugins/eta_decays/PEtaDecaysPlugin.h
+ lib/PEtaDoubleDalitz.o:plugins/eta_decays/PEtaDoubleDalitz.cc plugins/eta_decays/PEtaDoubleDalitz.h
+ lib/PEtaDoubleDalitzFF.o:plugins/eta_decays/PEtaDoubleDalitzFF.cc plugins/eta_decays/PEtaDoubleDalitzFF.h
+ lib/PEtaDoubleDalitzEnv.o:plugins/eta_decays/PEtaDoubleDalitzEnv.cc plugins/eta_decays/PEtaDoubleDalitzEnv.h
+ lib/PEtaPiPiGamma.o:plugins/eta_decays/PEtaPiPiGamma.cc plugins/eta_decays/PEtaPiPiGamma.h
+ lib/PEtaPiPiDilepton.o:plugins/eta_decays/PEtaPiPiDilepton.cc plugins/eta_decays/PEtaPiPiDilepton.h
+ lib/PEtaPiPiDileptonMass.o:plugins/eta_decays/PEtaPiPiDileptonMass.cc plugins/eta_decays/PEtaPiPiDileptonMass.h
+ lib/PSaidLowEnergy.o:plugins/scatter_mod/PSaidLowEnergy.cc plugins/scatter_mod/PSaidLowEnergy.h
+ lib/PSaidPN.o:plugins/scatter_mod/PSaidPN.cc plugins/scatter_mod/PSaidPN.h
+ lib/PScatterCrossSection.o:plugins/scatter_mod/PScatterCrossSection.cc plugins/scatter_mod/PScatterCrossSection.h
+ lib/PStrangenessPlugin.o:plugins/strangeness/PStrangenessPlugin.cc plugins/strangeness/PStrangenessPlugin.h
+ lib/POmega3Pi.o:plugins/w_decays/POmega3Pi.cc plugins/w_decays/POmega3Pi.h
+ lib/UEvent.o:plugins/pdg_unigen/UEvent.cc plugins/pdg_unigen/UEvent.h
+ lib/UParticle.o:plugins/pdg_unigen/UParticle.cc plugins/pdg_unigen/UParticle.h
+ lib/URun.o:plugins/pdg_unigen/URun.cc plugins/pdg_unigen/URun.h
+ lib/PUniGenInput.o:plugins/pdg_unigen/PUniGenInput.cc plugins/pdg_unigen/PUniGenInput.h
+ lib/PPDGPlugin.o:plugins/pdg_unigen/PPDGPlugin.cc plugins/pdg_unigen/PPDGPlugin.h
+

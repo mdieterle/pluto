@@ -1,0 +1,12 @@
+#include "plugins/nucleus_fermi/PDistributionManager.mod.cc"
+ #include "plugins/pion_beam/PDistributionManager.mod.cc"
+ #include "plugins/brems/PDistributionManager.mod.cc"
+ #include "plugins/hades/PDistributionManager.mod.cc"
+ #include "plugins/dalitz_mod/PDistributionManager.mod.cc"
+ #include "plugins/elementary/PDistributionManager.mod.cc"
+ #include "plugins/eta_decays/PDistributionManager.mod.cc"
+ #include "plugins/scatter_mod/PDistributionManager.mod.cc"
+ #include "plugins/strangeness/PDistributionManager.mod.cc"
+ #include "plugins/w_decays/PDistributionManager.mod.cc"
+ #include "plugins/pdg_unigen/PDistributionManager.mod.cc"
+
